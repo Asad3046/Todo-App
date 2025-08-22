@@ -73,7 +73,7 @@ function App() {
 
   return (
     <div className="app" style={{ padding: "20px", maxWidth: "500px", margin: "0 auto" }}>
-      <h1>Todo App (CRUD + SWR + localStorage, no useEffect)</h1>
+      <h1>Todo App</h1>
 
       {/* Add Todo */}
       <div style={{ display: "flex", gap: "10px", marginBottom: "20px" }}>
